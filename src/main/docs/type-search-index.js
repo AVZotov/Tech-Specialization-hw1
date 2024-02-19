@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ru.geekbrains.homework01.arithmetics","l":"Calculator"},{"p":"ru.geekbrains.homework01.decorator","l":"Decorator"},{"p":"ru.geekbrains.homework01","l":"Program"}]
